@@ -1,0 +1,10 @@
+# Ignore artifacts:
+public
+build
+coverage
+
+# Ignore all HTML files:
+*.html
+
+# React
+src/index.tsx
